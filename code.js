@@ -1,2 +1,2 @@
-const a = 'text';
+const a = 'Configuration';
 const b = 56;
